@@ -7,8 +7,7 @@ namespace laba1111
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int number 0
-
+                       
         }
     }
 }
